@@ -79,7 +79,7 @@ Instead of generating generic answers, it retrieves actual legal text (DPDP, GDP
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/privguard-ai.git
+git clone https://github.com/Chinmayee036/privguard-ai.git
 cd privguard-ai
 pip install -r requirements.txt
 ```
